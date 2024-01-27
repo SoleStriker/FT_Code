@@ -1,0 +1,10 @@
+C:\Users\mahha\Dev\FT\chp 12\TinasCustomTees\TinasCustomTees\bin\Debug\TinasCustomTees.exe.config
+C:\Users\mahha\Dev\FT\chp 12\TinasCustomTees\TinasCustomTees\bin\Debug\TinasCustomTees.exe
+C:\Users\mahha\Dev\FT\chp 12\TinasCustomTees\TinasCustomTees\bin\Debug\TinasCustomTees.pdb
+C:\Users\mahha\Dev\FT\chp 12\TinasCustomTees\TinasCustomTees\obj\Debug\TinasCustomTees.csproj.AssemblyReference.cache
+C:\Users\mahha\Dev\FT\chp 12\TinasCustomTees\TinasCustomTees\obj\Debug\TinasCustomTees.Form1.resources
+C:\Users\mahha\Dev\FT\chp 12\TinasCustomTees\TinasCustomTees\obj\Debug\TinasCustomTees.Properties.Resources.resources
+C:\Users\mahha\Dev\FT\chp 12\TinasCustomTees\TinasCustomTees\obj\Debug\TinasCustomTees.csproj.GenerateResource.cache
+C:\Users\mahha\Dev\FT\chp 12\TinasCustomTees\TinasCustomTees\obj\Debug\TinasCustomTees.csproj.CoreCompileInputs.cache
+C:\Users\mahha\Dev\FT\chp 12\TinasCustomTees\TinasCustomTees\obj\Debug\TinasCustomTees.exe
+C:\Users\mahha\Dev\FT\chp 12\TinasCustomTees\TinasCustomTees\obj\Debug\TinasCustomTees.pdb

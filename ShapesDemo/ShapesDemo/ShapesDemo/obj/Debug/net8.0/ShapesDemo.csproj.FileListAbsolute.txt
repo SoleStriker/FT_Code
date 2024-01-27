@@ -1,0 +1,14 @@
+C:\Users\mahha\Dev\FT\ShapesDemo\ShapesDemo\ShapesDemo\bin\Debug\net8.0\ShapesDemo.exe
+C:\Users\mahha\Dev\FT\ShapesDemo\ShapesDemo\ShapesDemo\bin\Debug\net8.0\ShapesDemo.deps.json
+C:\Users\mahha\Dev\FT\ShapesDemo\ShapesDemo\ShapesDemo\bin\Debug\net8.0\ShapesDemo.runtimeconfig.json
+C:\Users\mahha\Dev\FT\ShapesDemo\ShapesDemo\ShapesDemo\bin\Debug\net8.0\ShapesDemo.dll
+C:\Users\mahha\Dev\FT\ShapesDemo\ShapesDemo\ShapesDemo\bin\Debug\net8.0\ShapesDemo.pdb
+C:\Users\mahha\Dev\FT\ShapesDemo\ShapesDemo\ShapesDemo\obj\Debug\net8.0\ShapesDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahha\Dev\FT\ShapesDemo\ShapesDemo\ShapesDemo\obj\Debug\net8.0\ShapesDemo.AssemblyInfoInputs.cache
+C:\Users\mahha\Dev\FT\ShapesDemo\ShapesDemo\ShapesDemo\obj\Debug\net8.0\ShapesDemo.AssemblyInfo.cs
+C:\Users\mahha\Dev\FT\ShapesDemo\ShapesDemo\ShapesDemo\obj\Debug\net8.0\ShapesDemo.csproj.CoreCompileInputs.cache
+C:\Users\mahha\Dev\FT\ShapesDemo\ShapesDemo\ShapesDemo\obj\Debug\net8.0\ShapesDemo.dll
+C:\Users\mahha\Dev\FT\ShapesDemo\ShapesDemo\ShapesDemo\obj\Debug\net8.0\refint\ShapesDemo.dll
+C:\Users\mahha\Dev\FT\ShapesDemo\ShapesDemo\ShapesDemo\obj\Debug\net8.0\ShapesDemo.pdb
+C:\Users\mahha\Dev\FT\ShapesDemo\ShapesDemo\ShapesDemo\obj\Debug\net8.0\ShapesDemo.genruntimeconfig.cache
+C:\Users\mahha\Dev\FT\ShapesDemo\ShapesDemo\ShapesDemo\obj\Debug\net8.0\ref\ShapesDemo.dll

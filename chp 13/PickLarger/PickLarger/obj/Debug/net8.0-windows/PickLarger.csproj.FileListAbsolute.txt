@@ -1,0 +1,16 @@
+C:\Users\mahha\Dev\FT\chp 13\PickLarger\PickLarger\obj\Debug\net8.0-windows\PickLarger.Form1.resources
+C:\Users\mahha\Dev\FT\chp 13\PickLarger\PickLarger\obj\Debug\net8.0-windows\PickLarger.csproj.GenerateResource.cache
+C:\Users\mahha\Dev\FT\chp 13\PickLarger\PickLarger\obj\Debug\net8.0-windows\PickLarger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahha\Dev\FT\chp 13\PickLarger\PickLarger\obj\Debug\net8.0-windows\PickLarger.AssemblyInfoInputs.cache
+C:\Users\mahha\Dev\FT\chp 13\PickLarger\PickLarger\obj\Debug\net8.0-windows\PickLarger.AssemblyInfo.cs
+C:\Users\mahha\Dev\FT\chp 13\PickLarger\PickLarger\obj\Debug\net8.0-windows\PickLarger.csproj.CoreCompileInputs.cache
+C:\Users\mahha\Dev\FT\chp 13\PickLarger\PickLarger\bin\Debug\net8.0-windows\PickLarger.exe
+C:\Users\mahha\Dev\FT\chp 13\PickLarger\PickLarger\bin\Debug\net8.0-windows\PickLarger.deps.json
+C:\Users\mahha\Dev\FT\chp 13\PickLarger\PickLarger\bin\Debug\net8.0-windows\PickLarger.runtimeconfig.json
+C:\Users\mahha\Dev\FT\chp 13\PickLarger\PickLarger\bin\Debug\net8.0-windows\PickLarger.dll
+C:\Users\mahha\Dev\FT\chp 13\PickLarger\PickLarger\bin\Debug\net8.0-windows\PickLarger.pdb
+C:\Users\mahha\Dev\FT\chp 13\PickLarger\PickLarger\obj\Debug\net8.0-windows\PickLarger.dll
+C:\Users\mahha\Dev\FT\chp 13\PickLarger\PickLarger\obj\Debug\net8.0-windows\refint\PickLarger.dll
+C:\Users\mahha\Dev\FT\chp 13\PickLarger\PickLarger\obj\Debug\net8.0-windows\PickLarger.pdb
+C:\Users\mahha\Dev\FT\chp 13\PickLarger\PickLarger\obj\Debug\net8.0-windows\PickLarger.genruntimeconfig.cache
+C:\Users\mahha\Dev\FT\chp 13\PickLarger\PickLarger\obj\Debug\net8.0-windows\ref\PickLarger.dll

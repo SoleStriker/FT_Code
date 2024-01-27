@@ -1,0 +1,10 @@
+C:\Users\mahha\Dev\FT\chp 12\MyFlix\MyFlix\bin\Debug\MyFlix.exe.config
+C:\Users\mahha\Dev\FT\chp 12\MyFlix\MyFlix\bin\Debug\MyFlix.exe
+C:\Users\mahha\Dev\FT\chp 12\MyFlix\MyFlix\bin\Debug\MyFlix.pdb
+C:\Users\mahha\Dev\FT\chp 12\MyFlix\MyFlix\obj\Debug\MyFlix.csproj.AssemblyReference.cache
+C:\Users\mahha\Dev\FT\chp 12\MyFlix\MyFlix\obj\Debug\MyFlix.Form1.resources
+C:\Users\mahha\Dev\FT\chp 12\MyFlix\MyFlix\obj\Debug\MyFlix.Properties.Resources.resources
+C:\Users\mahha\Dev\FT\chp 12\MyFlix\MyFlix\obj\Debug\MyFlix.csproj.GenerateResource.cache
+C:\Users\mahha\Dev\FT\chp 12\MyFlix\MyFlix\obj\Debug\MyFlix.csproj.CoreCompileInputs.cache
+C:\Users\mahha\Dev\FT\chp 12\MyFlix\MyFlix\obj\Debug\MyFlix.exe
+C:\Users\mahha\Dev\FT\chp 12\MyFlix\MyFlix\obj\Debug\MyFlix.pdb

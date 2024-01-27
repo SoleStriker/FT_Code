@@ -1,0 +1,10 @@
+C:\Users\mahha\Dev\FT\chp 12\FontSelector\FontSelector\bin\Debug\FontSelector.exe.config
+C:\Users\mahha\Dev\FT\chp 12\FontSelector\FontSelector\bin\Debug\FontSelector.exe
+C:\Users\mahha\Dev\FT\chp 12\FontSelector\FontSelector\bin\Debug\FontSelector.pdb
+C:\Users\mahha\Dev\FT\chp 12\FontSelector\FontSelector\obj\Debug\FontSelector.csproj.AssemblyReference.cache
+C:\Users\mahha\Dev\FT\chp 12\FontSelector\FontSelector\obj\Debug\FontSelector.Form1.resources
+C:\Users\mahha\Dev\FT\chp 12\FontSelector\FontSelector\obj\Debug\FontSelector.Properties.Resources.resources
+C:\Users\mahha\Dev\FT\chp 12\FontSelector\FontSelector\obj\Debug\FontSelector.csproj.GenerateResource.cache
+C:\Users\mahha\Dev\FT\chp 12\FontSelector\FontSelector\obj\Debug\FontSelector.csproj.CoreCompileInputs.cache
+C:\Users\mahha\Dev\FT\chp 12\FontSelector\FontSelector\obj\Debug\FontSelector.exe
+C:\Users\mahha\Dev\FT\chp 12\FontSelector\FontSelector\obj\Debug\FontSelector.pdb

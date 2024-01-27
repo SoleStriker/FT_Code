@@ -1,0 +1,14 @@
+D:\FT\chp 11\BookExceptionDemo\BookExceptionDemo\bin\Debug\net8.0\BookExceptionDemo.exe
+D:\FT\chp 11\BookExceptionDemo\BookExceptionDemo\bin\Debug\net8.0\BookExceptionDemo.deps.json
+D:\FT\chp 11\BookExceptionDemo\BookExceptionDemo\bin\Debug\net8.0\BookExceptionDemo.runtimeconfig.json
+D:\FT\chp 11\BookExceptionDemo\BookExceptionDemo\bin\Debug\net8.0\BookExceptionDemo.dll
+D:\FT\chp 11\BookExceptionDemo\BookExceptionDemo\bin\Debug\net8.0\BookExceptionDemo.pdb
+D:\FT\chp 11\BookExceptionDemo\BookExceptionDemo\obj\Debug\net8.0\BookExceptionDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\FT\chp 11\BookExceptionDemo\BookExceptionDemo\obj\Debug\net8.0\BookExceptionDemo.AssemblyInfoInputs.cache
+D:\FT\chp 11\BookExceptionDemo\BookExceptionDemo\obj\Debug\net8.0\BookExceptionDemo.AssemblyInfo.cs
+D:\FT\chp 11\BookExceptionDemo\BookExceptionDemo\obj\Debug\net8.0\BookExceptionDemo.csproj.CoreCompileInputs.cache
+D:\FT\chp 11\BookExceptionDemo\BookExceptionDemo\obj\Debug\net8.0\BookExceptionDemo.dll
+D:\FT\chp 11\BookExceptionDemo\BookExceptionDemo\obj\Debug\net8.0\refint\BookExceptionDemo.dll
+D:\FT\chp 11\BookExceptionDemo\BookExceptionDemo\obj\Debug\net8.0\BookExceptionDemo.pdb
+D:\FT\chp 11\BookExceptionDemo\BookExceptionDemo\obj\Debug\net8.0\BookExceptionDemo.genruntimeconfig.cache
+D:\FT\chp 11\BookExceptionDemo\BookExceptionDemo\obj\Debug\net8.0\ref\BookExceptionDemo.dll

@@ -1,0 +1,16 @@
+C:\Users\mahha\Dev\FT\chp 13\WordsOfWisdom\WordsOfWisdom\bin\Debug\net8.0-windows\WordsOfWisdom.exe
+C:\Users\mahha\Dev\FT\chp 13\WordsOfWisdom\WordsOfWisdom\bin\Debug\net8.0-windows\WordsOfWisdom.deps.json
+C:\Users\mahha\Dev\FT\chp 13\WordsOfWisdom\WordsOfWisdom\bin\Debug\net8.0-windows\WordsOfWisdom.runtimeconfig.json
+C:\Users\mahha\Dev\FT\chp 13\WordsOfWisdom\WordsOfWisdom\bin\Debug\net8.0-windows\WordsOfWisdom.dll
+C:\Users\mahha\Dev\FT\chp 13\WordsOfWisdom\WordsOfWisdom\bin\Debug\net8.0-windows\WordsOfWisdom.pdb
+C:\Users\mahha\Dev\FT\chp 13\WordsOfWisdom\WordsOfWisdom\obj\Debug\net8.0-windows\WordsOfWisdom.Form1.resources
+C:\Users\mahha\Dev\FT\chp 13\WordsOfWisdom\WordsOfWisdom\obj\Debug\net8.0-windows\WordsOfWisdom.csproj.GenerateResource.cache
+C:\Users\mahha\Dev\FT\chp 13\WordsOfWisdom\WordsOfWisdom\obj\Debug\net8.0-windows\WordsOfWisdom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahha\Dev\FT\chp 13\WordsOfWisdom\WordsOfWisdom\obj\Debug\net8.0-windows\WordsOfWisdom.AssemblyInfoInputs.cache
+C:\Users\mahha\Dev\FT\chp 13\WordsOfWisdom\WordsOfWisdom\obj\Debug\net8.0-windows\WordsOfWisdom.AssemblyInfo.cs
+C:\Users\mahha\Dev\FT\chp 13\WordsOfWisdom\WordsOfWisdom\obj\Debug\net8.0-windows\WordsOfWisdom.csproj.CoreCompileInputs.cache
+C:\Users\mahha\Dev\FT\chp 13\WordsOfWisdom\WordsOfWisdom\obj\Debug\net8.0-windows\WordsOfWisdom.dll
+C:\Users\mahha\Dev\FT\chp 13\WordsOfWisdom\WordsOfWisdom\obj\Debug\net8.0-windows\refint\WordsOfWisdom.dll
+C:\Users\mahha\Dev\FT\chp 13\WordsOfWisdom\WordsOfWisdom\obj\Debug\net8.0-windows\WordsOfWisdom.pdb
+C:\Users\mahha\Dev\FT\chp 13\WordsOfWisdom\WordsOfWisdom\obj\Debug\net8.0-windows\WordsOfWisdom.genruntimeconfig.cache
+C:\Users\mahha\Dev\FT\chp 13\WordsOfWisdom\WordsOfWisdom\obj\Debug\net8.0-windows\ref\WordsOfWisdom.dll
