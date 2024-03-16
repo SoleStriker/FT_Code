@@ -1,0 +1,14 @@
+/Users/sule/Dev/FT/C# II/chp 10/ShapesDemo/ShapesDemo/obj/Debug/net7.0/ShapesDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sule/Dev/FT/C# II/chp 10/ShapesDemo/ShapesDemo/obj/Debug/net7.0/ShapesDemo.AssemblyInfoInputs.cache
+/Users/sule/Dev/FT/C# II/chp 10/ShapesDemo/ShapesDemo/obj/Debug/net7.0/ShapesDemo.AssemblyInfo.cs
+/Users/sule/Dev/FT/C# II/chp 10/ShapesDemo/ShapesDemo/obj/Debug/net7.0/ShapesDemo.csproj.CoreCompileInputs.cache
+/Users/sule/Dev/FT/C# II/chp 10/ShapesDemo/ShapesDemo/bin/Debug/net7.0/ShapesDemo
+/Users/sule/Dev/FT/C# II/chp 10/ShapesDemo/ShapesDemo/bin/Debug/net7.0/ShapesDemo.deps.json
+/Users/sule/Dev/FT/C# II/chp 10/ShapesDemo/ShapesDemo/bin/Debug/net7.0/ShapesDemo.runtimeconfig.json
+/Users/sule/Dev/FT/C# II/chp 10/ShapesDemo/ShapesDemo/bin/Debug/net7.0/ShapesDemo.dll
+/Users/sule/Dev/FT/C# II/chp 10/ShapesDemo/ShapesDemo/bin/Debug/net7.0/ShapesDemo.pdb
+/Users/sule/Dev/FT/C# II/chp 10/ShapesDemo/ShapesDemo/obj/Debug/net7.0/ShapesDemo.dll
+/Users/sule/Dev/FT/C# II/chp 10/ShapesDemo/ShapesDemo/obj/Debug/net7.0/refint/ShapesDemo.dll
+/Users/sule/Dev/FT/C# II/chp 10/ShapesDemo/ShapesDemo/obj/Debug/net7.0/ShapesDemo.pdb
+/Users/sule/Dev/FT/C# II/chp 10/ShapesDemo/ShapesDemo/obj/Debug/net7.0/ShapesDemo.genruntimeconfig.cache
+/Users/sule/Dev/FT/C# II/chp 10/ShapesDemo/ShapesDemo/obj/Debug/net7.0/ref/ShapesDemo.dll

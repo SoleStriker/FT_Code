@@ -1,0 +1,14 @@
+/Users/sule/Dev/FT/C# II/chp 10/CookieDemo/CookieDemo/bin/Debug/net7.0/CookieDemo
+/Users/sule/Dev/FT/C# II/chp 10/CookieDemo/CookieDemo/bin/Debug/net7.0/CookieDemo.deps.json
+/Users/sule/Dev/FT/C# II/chp 10/CookieDemo/CookieDemo/bin/Debug/net7.0/CookieDemo.runtimeconfig.json
+/Users/sule/Dev/FT/C# II/chp 10/CookieDemo/CookieDemo/bin/Debug/net7.0/CookieDemo.dll
+/Users/sule/Dev/FT/C# II/chp 10/CookieDemo/CookieDemo/bin/Debug/net7.0/CookieDemo.pdb
+/Users/sule/Dev/FT/C# II/chp 10/CookieDemo/CookieDemo/obj/Debug/net7.0/CookieDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sule/Dev/FT/C# II/chp 10/CookieDemo/CookieDemo/obj/Debug/net7.0/CookieDemo.AssemblyInfoInputs.cache
+/Users/sule/Dev/FT/C# II/chp 10/CookieDemo/CookieDemo/obj/Debug/net7.0/CookieDemo.AssemblyInfo.cs
+/Users/sule/Dev/FT/C# II/chp 10/CookieDemo/CookieDemo/obj/Debug/net7.0/CookieDemo.csproj.CoreCompileInputs.cache
+/Users/sule/Dev/FT/C# II/chp 10/CookieDemo/CookieDemo/obj/Debug/net7.0/CookieDemo.dll
+/Users/sule/Dev/FT/C# II/chp 10/CookieDemo/CookieDemo/obj/Debug/net7.0/refint/CookieDemo.dll
+/Users/sule/Dev/FT/C# II/chp 10/CookieDemo/CookieDemo/obj/Debug/net7.0/CookieDemo.pdb
+/Users/sule/Dev/FT/C# II/chp 10/CookieDemo/CookieDemo/obj/Debug/net7.0/CookieDemo.genruntimeconfig.cache
+/Users/sule/Dev/FT/C# II/chp 10/CookieDemo/CookieDemo/obj/Debug/net7.0/ref/CookieDemo.dll

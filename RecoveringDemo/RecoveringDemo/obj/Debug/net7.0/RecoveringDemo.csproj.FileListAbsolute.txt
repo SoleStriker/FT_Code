@@ -1,0 +1,14 @@
+/Users/sule/Dev/FT/C# II/chp 10/RecoveringDemo/RecoveringDemo/obj/Debug/net7.0/RecoveringDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sule/Dev/FT/C# II/chp 10/RecoveringDemo/RecoveringDemo/obj/Debug/net7.0/RecoveringDemo.AssemblyInfoInputs.cache
+/Users/sule/Dev/FT/C# II/chp 10/RecoveringDemo/RecoveringDemo/obj/Debug/net7.0/RecoveringDemo.AssemblyInfo.cs
+/Users/sule/Dev/FT/C# II/chp 10/RecoveringDemo/RecoveringDemo/obj/Debug/net7.0/RecoveringDemo.csproj.CoreCompileInputs.cache
+/Users/sule/Dev/FT/C# II/chp 10/RecoveringDemo/RecoveringDemo/bin/Debug/net7.0/RecoveringDemo
+/Users/sule/Dev/FT/C# II/chp 10/RecoveringDemo/RecoveringDemo/bin/Debug/net7.0/RecoveringDemo.deps.json
+/Users/sule/Dev/FT/C# II/chp 10/RecoveringDemo/RecoveringDemo/bin/Debug/net7.0/RecoveringDemo.runtimeconfig.json
+/Users/sule/Dev/FT/C# II/chp 10/RecoveringDemo/RecoveringDemo/bin/Debug/net7.0/RecoveringDemo.dll
+/Users/sule/Dev/FT/C# II/chp 10/RecoveringDemo/RecoveringDemo/bin/Debug/net7.0/RecoveringDemo.pdb
+/Users/sule/Dev/FT/C# II/chp 10/RecoveringDemo/RecoveringDemo/obj/Debug/net7.0/RecoveringDemo.dll
+/Users/sule/Dev/FT/C# II/chp 10/RecoveringDemo/RecoveringDemo/obj/Debug/net7.0/refint/RecoveringDemo.dll
+/Users/sule/Dev/FT/C# II/chp 10/RecoveringDemo/RecoveringDemo/obj/Debug/net7.0/RecoveringDemo.pdb
+/Users/sule/Dev/FT/C# II/chp 10/RecoveringDemo/RecoveringDemo/obj/Debug/net7.0/RecoveringDemo.genruntimeconfig.cache
+/Users/sule/Dev/FT/C# II/chp 10/RecoveringDemo/RecoveringDemo/obj/Debug/net7.0/ref/RecoveringDemo.dll
